@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# PyInstaller build artifacts (do not track large temporary build directories in git)
+build/
+*.spec
+
+# Keep dist or upload exe to GitHub Releases
+dist/
+
+# Local session logs and temporary test data
+logs/*.log
+*.tmp
+
+# Editor / IDE configuration
+.vscode/
+.idea/

@@ -1,0 +1,12 @@
+{
+  "adb_path": "tools/platform-tools/adb.exe",
+  "adb_timeout": 10,
+  "auto_refresh": "5",
+  "theme": "Dark (Black & Orange)",
+  "log_level": "INFO",
+  "fastboot_path": "tools/platform-tools/fastboot.exe",
+  "auto_refresh_interval": 5,
+  "default_backup_dir": "",
+  "confirm_destructive": true,
+  "show_advanced": false
+}
