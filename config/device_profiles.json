@@ -1,0 +1,19 @@
+{
+  "samsung":   {"method": "sideload",          "file_types": ["zip", "tar.md5"],       "bootloader_required": false},
+  "xiaomi":    {"method": "fastboot",           "file_types": ["zip", "img"],           "ab_aware": true},
+  "oneplus":   {"method": "fastboot_sideload",  "file_types": ["zip", "img"],           "ab_aware": true},
+  "google":    {"method": "fastboot_update",    "file_types": ["zip", "img"],           "ab_aware": true},
+  "motorola":  {"method": "fastboot",           "file_types": ["zip", "img", "xml"],   "bootloader_required": true},
+  "oppo":      {"method": "sideload",           "file_types": ["zip", "ozip"],          "bootloader_required": false},
+  "realme":    {"method": "sideload",           "file_types": ["zip", "ozip"],          "bootloader_required": false},
+  "vivo":      {"method": "fastboot",           "file_types": ["zip", "img"],           "bootloader_required": true},
+  "sony":      {"method": "fastboot",           "file_types": ["zip", "img"],           "bootloader_required": true},
+  "asus":      {"method": "fastboot",           "file_types": ["zip", "img"],           "bootloader_required": true},
+  "nothing":   {"method": "fastboot",           "file_types": ["zip", "img"],           "ab_aware": true},
+  "huawei":    {"method": "unsupported",        "note": "Locked bootloader — use HiSuite"},
+  "honor":     {"method": "unsupported",        "note": "Locked bootloader — use HiSuite"},
+  "tecno":     {"method": "fastboot",           "file_types": ["zip", "img"]},
+  "infinix":   {"method": "fastboot",           "file_types": ["zip", "img"]},
+  "itel":      {"method": "fastboot",           "file_types": ["zip", "img"]},
+  "generic":   {"method": "fastboot_sideload",  "file_types": ["zip", "img"]}
+}
