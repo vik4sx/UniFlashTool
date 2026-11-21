@@ -20,14 +20,14 @@ Developed by: **Tejas Jadhav** • GitHub: [**@vik4sx**](https://github.com/vik4
 
 ---
 
-## 🌟 Key Features
-- 📱 **Real-Time Device Detection**: Auto-detects connected devices via ADB and Fastboot with live status indicator
-- 🔧 **Driver Installation Hub**: Bundled **15-Second ADB & Fastboot Driver Installer v2.0.7** (1-click direct launch) + official downloads for Qualcomm 9008 EDL, MediaTek VCOM, and all OEM brand drivers + Device Manager integration
-- 🏷️ **Multi Brand Support**:Samsung, Xiaomi, Pixel, OnePlus, Motorola, Realme, OPPO, Vivo, Sony, Asus, Nothing
-- 🚀 **1-Click Firmware & ROM Flashing**: Sideload and Fastboot partition flashing with real-time logs
-- 🔄 **Reboot & ADB Controls**: One-click state transitions (Normal, Bootloader, Recovery, Fastbootd, EDL, Sideload, Shell, Server Restart)
-- 📦 **Device Backup & Partition Pull**: Full ADB backup/restore and raw partition imaging
-- 📊 **Detailed Device Diagnostics**: 29+ hardware & system properties inspector with TXT export
+## Key Features
+- **Real-Time Device Detection**: Auto-detects connected devices via ADB and Fastboot with live status indicator
+- **Driver Installation Hub**: Bundled **15-Second ADB & Fastboot Driver Installer v2.0.7** (1-click direct launch) + official downloads for Qualcomm 9008 EDL, MediaTek VCOM, and all OEM brand drivers + Device Manager integration
+-  **Multi Brand Support**:Samsung, Xiaomi, Pixel, OnePlus, Motorola, Realme, OPPO, Vivo, Sony, Asus, Nothing
+-  **1-Click Firmware & ROM Flashing**: Sideload and Fastboot partition flashing with real-time logs
+-  **Reboot & ADB Controls**: One-click state transitions (Normal, Bootloader, Recovery, Fastbootd, EDL, Sideload, Shell, Server Restart)
+-  **Device Backup & Partition Pull**: Full ADB backup/restore and raw partition imaging
+-  **Detailed Device Diagnostics**: 29+ hardware & system properties inspector with TXT export
 
 ---
 
